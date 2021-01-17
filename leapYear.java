@@ -6,7 +6,7 @@ public class leapYear {
     }
 
    // public static void main(String[] args) { //commented out for purposes of assignment requirements. Please uncomment if you dont have main class 
-        /* leapYear king = new leapYear(); */ // this section will be needed if we decide to request user input in which case we will need to import scanner util and use it to accept user input
-        System.out.println(isLeapYear(2000));
+        /* leapYear king = new leapYear();  // this section will be needed if we decide to request user input in which case we will need to import scanner util and use it to accept user input
+        System.out.println(isLeapYear(2000));*/
     }
 }
